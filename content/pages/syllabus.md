@@ -41,12 +41,57 @@ This is a case/readings based class. There is no final exam. Instead, there will
 Grading
 -------
 
-| ACTIVITIES | POINTS |
-| --- | --- |
-| Short assignment | 30 points |
-| Class participation | 30 points |
-| Debate slides (10 points / presentation) | 40 points |
-| Debate victory | 10 extra points per debate 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+POINTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Short assignment
+{{< tdclose >}}
+{{< tdopen >}}
+30 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+30 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Debate slides (10 points / presentation)
+{{< tdclose >}}
+{{< tdopen >}}
+40 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Debate victory
+{{< tdclose >}}
+{{< tdopen >}}
+10 extra points per debate
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Class Participation
 -------------------
